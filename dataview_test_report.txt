@@ -1,0 +1,20 @@
+Dataview Query Test Report
+==============================
+Generated: 2025-10-12 15:16:43
+
+OVERALL SUMMARY
+--------------------
+Files processed: 3
+Files with issues: 0
+Total queries: 60
+Valid queries: 60
+Invalid queries: 0
+
+
+BEST PRACTICES
+---------------
+1. Always include a FROM clause to specify data source
+2. Use consistent tag formats starting with 'AI/'
+3. Use standard sort fields: file.name, file.mtime, rating, pricing
+4. Limit results to reasonable numbers (< 50)
+5. Use proper path formatting for consistency

@@ -1,0 +1,632 @@
+AI Tools URL Validation Report
+==================================================
+Generated: 2025-10-12 15:21:20
+
+OVERALL SUMMARY
+--------------------
+Files processed: 77
+Total URLs: 154
+Valid URLs: 154
+Broken URLs: 0
+Redirects: 0
+Timeouts: 0
+Errors: 0
+
+FILE-BY-FILE RESULTS
+------------------------------
+
+File: AI/003_Content (TheAIs)\AI Studio (Gemini).md
+  Total URLs: 2
+  Valid: 2
+  Broken: 0
+  Redirects: 0
+  Timeouts: 0
+  Errors: 0
+
+File: AI/003_Content (TheAIs)\AI Studio (Imagen).md
+  Total URLs: 2
+  Valid: 2
+  Broken: 0
+  Redirects: 0
+  Timeouts: 0
+  Errors: 0
+
+File: AI/003_Content (TheAIs)\AI Studio (Veo 2).md
+  Total URLs: 2
+  Valid: 2
+  Broken: 0
+  Redirects: 0
+  Timeouts: 0
+  Errors: 0
+
+File: AI/003_Content (TheAIs)\Aider.md
+  Total URLs: 2
+  Valid: 2
+  Broken: 0
+  Redirects: 0
+  Timeouts: 0
+  Errors: 0
+
+File: AI/003_Content (TheAIs)\Apertus.md
+  Total URLs: 2
+  Valid: 2
+  Broken: 0
+  Redirects: 0
+  Timeouts: 0
+  Errors: 0
+
+File: AI/003_Content (TheAIs)\Applio.md
+  Total URLs: 2
+  Valid: 2
+  Broken: 0
+  Redirects: 0
+  Timeouts: 0
+  Errors: 0
+
+File: AI/003_Content (TheAIs)\Artificial Analysis.md
+  Total URLs: 2
+  Valid: 2
+  Broken: 0
+  Redirects: 0
+  Timeouts: 0
+  Errors: 0
+
+File: AI/003_Content (TheAIs)\Bing Create.md
+  Total URLs: 2
+  Valid: 2
+  Broken: 0
+  Redirects: 0
+  Timeouts: 0
+  Errors: 0
+
+File: AI/003_Content (TheAIs)\Blackbox.md
+  Total URLs: 2
+  Valid: 2
+  Broken: 0
+  Redirects: 0
+  Timeouts: 0
+  Errors: 0
+
+File: AI/003_Content (TheAIs)\Character.AI.md
+  Total URLs: 2
+  Valid: 2
+  Broken: 0
+  Redirects: 0
+  Timeouts: 0
+  Errors: 0
+
+File: AI/003_Content (TheAIs)\Codacy.md
+  Total URLs: 2
+  Valid: 2
+  Broken: 0
+  Redirects: 0
+  Timeouts: 0
+  Errors: 0
+
+File: AI/003_Content (TheAIs)\Cohere.md
+  Total URLs: 2
+  Valid: 2
+  Broken: 0
+  Redirects: 0
+  Timeouts: 0
+  Errors: 0
+
+File: AI/003_Content (TheAIs)\Continue.md
+  Total URLs: 2
+  Valid: 2
+  Broken: 0
+  Redirects: 0
+  Timeouts: 0
+  Errors: 0
+
+File: AI/003_Content (TheAIs)\Cursor.md
+  Total URLs: 2
+  Valid: 2
+  Broken: 0
+  Redirects: 0
+  Timeouts: 0
+  Errors: 0
+
+File: AI/003_Content (TheAIs)\Devv.md
+  Total URLs: 2
+  Valid: 2
+  Broken: 0
+  Redirects: 0
+  Timeouts: 0
+  Errors: 0
+
+File: AI/003_Content (TheAIs)\DocsGPT.md
+  Total URLs: 2
+  Valid: 2
+  Broken: 0
+  Redirects: 0
+  Timeouts: 0
+  Errors: 0
+
+File: AI/003_Content (TheAIs)\dots-demo.md
+  Total URLs: 2
+  Valid: 2
+  Broken: 0
+  Redirects: 0
+  Timeouts: 0
+  Errors: 0
+
+File: AI/003_Content (TheAIs)\Dreamily.md
+  Total URLs: 2
+  Valid: 2
+  Broken: 0
+  Redirects: 0
+  Timeouts: 0
+  Errors: 0
+
+File: AI/003_Content (TheAIs)\Dreamina Image.md
+  Total URLs: 2
+  Valid: 2
+  Broken: 0
+  Redirects: 0
+  Timeouts: 0
+  Errors: 0
+
+File: AI/003_Content (TheAIs)\Dreamina.md
+  Total URLs: 2
+  Valid: 2
+  Broken: 0
+  Redirects: 0
+  Timeouts: 0
+  Errors: 0
+
+File: AI/003_Content (TheAIs)\DuckDuckGo AI.md
+  Total URLs: 2
+  Valid: 2
+  Broken: 0
+  Redirects: 0
+  Timeouts: 0
+  Errors: 0
+
+File: AI/003_Content (TheAIs)\ElevenLabs.md
+  Total URLs: 2
+  Valid: 2
+  Broken: 0
+  Redirects: 0
+  Timeouts: 0
+  Errors: 0
+
+File: AI/003_Content (TheAIs)\Elicit.md
+  Total URLs: 2
+  Valid: 2
+  Broken: 0
+  Redirects: 0
+  Timeouts: 0
+  Errors: 0
+
+File: AI/003_Content (TheAIs)\Ernie.md
+  Total URLs: 2
+  Valid: 2
+  Broken: 0
+  Redirects: 0
+  Timeouts: 0
+  Errors: 0
+
+File: AI/003_Content (TheAIs)\FakeYou.md
+  Total URLs: 2
+  Valid: 2
+  Broken: 0
+  Redirects: 0
+  Timeouts: 0
+  Errors: 0
+
+File: AI/003_Content (TheAIs)\FastVideo.md
+  Total URLs: 2
+  Valid: 2
+  Broken: 0
+  Redirects: 0
+  Timeouts: 0
+  Errors: 0
+
+File: AI/003_Content (TheAIs)\FlowGPT.md
+  Total URLs: 2
+  Valid: 2
+  Broken: 0
+  Redirects: 0
+  Timeouts: 0
+  Errors: 0
+
+File: AI/003_Content (TheAIs)\FLUX.1 Schnell.md
+  Total URLs: 2
+  Valid: 2
+  Broken: 0
+  Redirects: 0
+  Timeouts: 0
+  Errors: 0
+
+File: AI/003_Content (TheAIs)\FreePass.md
+  Total URLs: 2
+  Valid: 2
+  Broken: 0
+  Redirects: 0
+  Timeouts: 0
+  Errors: 0
+
+File: AI/003_Content (TheAIs)\FutureTools.md
+  Total URLs: 2
+  Valid: 2
+  Broken: 0
+  Redirects: 0
+  Timeouts: 0
+  Errors: 0
+
+File: AI/003_Content (TheAIs)\Gemini CLI.md
+  Total URLs: 2
+  Valid: 2
+  Broken: 0
+  Redirects: 0
+  Timeouts: 0
+  Errors: 0
+
+File: AI/003_Content (TheAIs)\Genmo.md
+  Total URLs: 2
+  Valid: 2
+  Broken: 0
+  Redirects: 0
+  Timeouts: 0
+  Errors: 0
+
+File: AI/003_Content (TheAIs)\GitHub Copilot.md
+  Total URLs: 2
+  Valid: 2
+  Broken: 0
+  Redirects: 0
+  Timeouts: 0
+  Errors: 0
+
+File: AI/003_Content (TheAIs)\Google Labs.md
+  Total URLs: 2
+  Valid: 2
+  Broken: 0
+  Redirects: 0
+  Timeouts: 0
+  Errors: 0
+
+File: AI/003_Content (TheAIs)\Gradient.md
+  Total URLs: 2
+  Valid: 2
+  Broken: 0
+  Redirects: 0
+  Timeouts: 0
+  Errors: 0
+
+File: AI/003_Content (TheAIs)\Groq.md
+  Total URLs: 2
+  Valid: 2
+  Broken: 0
+  Redirects: 0
+  Timeouts: 0
+  Errors: 0
+
+File: AI/003_Content (TheAIs)\imgcook.md
+  Total URLs: 2
+  Valid: 2
+  Broken: 0
+  Redirects: 0
+  Timeouts: 0
+  Errors: 0
+
+File: AI/003_Content (TheAIs)\INK.md
+  Total URLs: 2
+  Valid: 2
+  Broken: 0
+  Redirects: 0
+  Timeouts: 0
+  Errors: 0
+
+File: AI/003_Content (TheAIs)\K2Think.md
+  Total URLs: 2
+  Valid: 2
+  Broken: 0
+  Redirects: 0
+  Timeouts: 0
+  Errors: 0
+
+File: AI/003_Content (TheAIs)\Kimi.md
+  Total URLs: 2
+  Valid: 2
+  Broken: 0
+  Redirects: 0
+  Timeouts: 0
+  Errors: 0
+
+File: AI/003_Content (TheAIs)\LM Studio.md
+  Total URLs: 2
+  Valid: 2
+  Broken: 0
+  Redirects: 0
+  Timeouts: 0
+  Errors: 0
+
+File: AI/003_Content (TheAIs)\LongCat.md
+  Total URLs: 2
+  Valid: 2
+  Broken: 0
+  Redirects: 0
+  Timeouts: 0
+  Errors: 0
+
+File: AI/003_Content (TheAIs)\Mage.md
+  Total URLs: 2
+  Valid: 2
+  Broken: 0
+  Redirects: 0
+  Timeouts: 0
+  Errors: 0
+
+File: AI/003_Content (TheAIs)\Microsoft Copilot.md
+  Total URLs: 2
+  Valid: 2
+  Broken: 0
+  Redirects: 0
+  Timeouts: 0
+  Errors: 0
+
+File: AI/003_Content (TheAIs)\MiniMax AI.md
+  Total URLs: 2
+  Valid: 2
+  Broken: 0
+  Redirects: 0
+  Timeouts: 0
+  Errors: 0
+
+File: AI/003_Content (TheAIs)\Mistral.md
+  Total URLs: 2
+  Valid: 2
+  Broken: 0
+  Redirects: 0
+  Timeouts: 0
+  Errors: 0
+
+File: AI/003_Content (TheAIs)\NotebookLM.md
+  Total URLs: 2
+  Valid: 2
+  Broken: 0
+  Redirects: 0
+  Timeouts: 0
+  Errors: 0
+
+File: AI/003_Content (TheAIs)\Ollama.md
+  Total URLs: 2
+  Valid: 2
+  Broken: 0
+  Redirects: 0
+  Timeouts: 0
+  Errors: 0
+
+File: AI/003_Content (TheAIs)\Opal Veo 3.md
+  Total URLs: 2
+  Valid: 2
+  Broken: 0
+  Redirects: 0
+  Timeouts: 0
+  Errors: 0
+
+File: AI/003_Content (TheAIs)\Open Interpreter.md
+  Total URLs: 2
+  Valid: 2
+  Broken: 0
+  Redirects: 0
+  Timeouts: 0
+  Errors: 0
+
+File: AI/003_Content (TheAIs)\Open WebUI.md
+  Total URLs: 2
+  Valid: 2
+  Broken: 0
+  Redirects: 0
+  Timeouts: 0
+  Errors: 0
+
+File: AI/003_Content (TheAIs)\Pieces.md
+  Total URLs: 2
+  Valid: 2
+  Broken: 0
+  Redirects: 0
+  Timeouts: 0
+  Errors: 0
+
+File: AI/003_Content (TheAIs)\PixVerse.md
+  Total URLs: 2
+  Valid: 2
+  Broken: 0
+  Redirects: 0
+  Timeouts: 0
+  Errors: 0
+
+File: AI/003_Content (TheAIs)\Prompt Engineering Guide.md
+  Total URLs: 2
+  Valid: 2
+  Broken: 0
+  Redirects: 0
+  Timeouts: 0
+  Errors: 0
+
+File: AI/003_Content (TheAIs)\Qodo.md
+  Total URLs: 2
+  Valid: 2
+  Broken: 0
+  Redirects: 0
+  Timeouts: 0
+  Errors: 0
+
+File: AI/003_Content (TheAIs)\Quarkle.md
+  Total URLs: 2
+  Valid: 2
+  Broken: 0
+  Redirects: 0
+  Timeouts: 0
+  Errors: 0
+
+File: AI/003_Content (TheAIs)\RankedAGI.md
+  Total URLs: 2
+  Valid: 2
+  Broken: 0
+  Redirects: 0
+  Timeouts: 0
+  Errors: 0
+
+File: AI/003_Content (TheAIs)\Reka.md
+  Total URLs: 2
+  Valid: 2
+  Broken: 0
+  Redirects: 0
+  Timeouts: 0
+  Errors: 0
+
+File: AI/003_Content (TheAIs)\Roo Code.md
+  Total URLs: 2
+  Valid: 2
+  Broken: 0
+  Redirects: 0
+  Timeouts: 0
+  Errors: 0
+
+File: AI/003_Content (TheAIs)\Rytr.md
+  Total URLs: 2
+  Valid: 2
+  Broken: 0
+  Redirects: 0
+  Timeouts: 0
+  Errors: 0
+
+File: AI/003_Content (TheAIs)\Scira.md
+  Total URLs: 2
+  Valid: 2
+  Broken: 0
+  Redirects: 0
+  Timeouts: 0
+  Errors: 0
+
+File: AI/003_Content (TheAIs)\Seron.md
+  Total URLs: 2
+  Valid: 2
+  Broken: 0
+  Redirects: 0
+  Timeouts: 0
+  Errors: 0
+
+File: AI/003_Content (TheAIs)\Solar.md
+  Total URLs: 2
+  Valid: 2
+  Broken: 0
+  Redirects: 0
+  Timeouts: 0
+  Errors: 0
+
+File: AI/003_Content (TheAIs)\Sourcery.md
+  Total URLs: 2
+  Valid: 2
+  Broken: 0
+  Redirects: 0
+  Timeouts: 0
+  Errors: 0
+
+File: AI/003_Content (TheAIs)\StepFun.md
+  Total URLs: 2
+  Valid: 2
+  Broken: 0
+  Redirects: 0
+  Timeouts: 0
+  Errors: 0
+
+File: AI/003_Content (TheAIs)\Suno.md
+  Total URLs: 2
+  Valid: 2
+  Broken: 0
+  Redirects: 0
+  Timeouts: 0
+  Errors: 0
+
+File: AI/003_Content (TheAIs)\Supermaven.md
+  Total URLs: 2
+  Valid: 2
+  Broken: 0
+  Redirects: 0
+  Timeouts: 0
+  Errors: 0
+
+File: AI/003_Content (TheAIs)\TextFX.md
+  Total URLs: 2
+  Valid: 2
+  Broken: 0
+  Redirects: 0
+  Timeouts: 0
+  Errors: 0
+
+File: AI/003_Content (TheAIs)\Together.ai.md
+  Total URLs: 2
+  Valid: 2
+  Broken: 0
+  Redirects: 0
+  Timeouts: 0
+  Errors: 0
+
+File: AI/003_Content (TheAIs)\Udio.md
+  Total URLs: 2
+  Valid: 2
+  Broken: 0
+  Redirects: 0
+  Timeouts: 0
+  Errors: 0
+
+File: AI/003_Content (TheAIs)\Vidu.md
+  Total URLs: 2
+  Valid: 2
+  Broken: 0
+  Redirects: 0
+  Timeouts: 0
+  Errors: 0
+
+File: AI/003_Content (TheAIs)\Wan AI.md
+  Total URLs: 2
+  Valid: 2
+  Broken: 0
+  Redirects: 0
+  Timeouts: 0
+  Errors: 0
+
+File: AI/003_Content (TheAIs)\WebSim.md
+  Total URLs: 2
+  Valid: 2
+  Broken: 0
+  Redirects: 0
+  Timeouts: 0
+  Errors: 0
+
+File: AI/003_Content (TheAIs)\Windsurf.md
+  Total URLs: 2
+  Valid: 2
+  Broken: 0
+  Redirects: 0
+  Timeouts: 0
+  Errors: 0
+
+File: AI/003_Content (TheAIs)\WolframTones.md
+  Total URLs: 2
+  Valid: 2
+  Broken: 0
+  Redirects: 0
+  Timeouts: 0
+  Errors: 0
+
+File: AI/003_Content (TheAIs)\Yupp.ai.md
+  Total URLs: 2
+  Valid: 2
+  Broken: 0
+  Redirects: 0
+  Timeouts: 0
+  Errors: 0
+
+File: AI/003_Content (TheAIs)\Z.ai.md
+  Total URLs: 2
+  Valid: 2
+  Broken: 0
+  Redirects: 0
+  Timeouts: 0
+  Errors: 0
