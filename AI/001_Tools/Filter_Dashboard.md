@@ -48,7 +48,7 @@ TABLE WITHOUT ID
   summary as "Summary",
   pricing as "Pricing",
   sign_up_required as "Sign-up Required"
-FROM "AI/003_Content (TheAIs)"
+FROM #ai-tool
 WHERE sign_up_required = "no"
 SORT file.name ASC
 ```
@@ -61,7 +61,7 @@ TABLE WITHOUT ID
   pricing as "Pricing",
   sign_up_required as "Sign-up Required",
   response_time as "Response Time"
-FROM "AI/003_Content (TheAIs)"
+FROM #ai-tool
 WHERE sign_up_required = "no" AND pricing = "free"
 SORT file.name ASC
 ```
@@ -75,7 +75,7 @@ TABLE WITHOUT ID
   summary as "Summary",
   rating as "Rating",
   pricing as "Pricing"
-FROM "AI/003_Content (TheAIs)"
+FROM #ai-tool
 WHERE rating >= 4.0
 SORT rating DESC
 ```
@@ -88,7 +88,7 @@ TABLE WITHOUT ID
   rating as "Rating",
   pricing as "Pricing",
   community_size as "Community Size"
-FROM "AI/003_Content (TheAIs)"
+FROM #ai-tool
 WHERE rating >= 4.5
 SORT rating DESC
 ```
@@ -102,7 +102,7 @@ TABLE WITHOUT ID
   summary as "Summary",
   platforms as "Platforms",
   pricing as "Pricing"
-FROM "AI/003_Content (TheAIs)"
+FROM #ai-tool
 WHERE contains(platforms, "Web")
 SORT file.name ASC
 ```
@@ -114,7 +114,7 @@ TABLE WITHOUT ID
   summary as "Summary",
   platforms as "Platforms",
   pricing as "Pricing"
-FROM "AI/003_Content (TheAIs)"
+FROM #ai-tool
 WHERE contains(platforms, "Desktop")
 SORT file.name ASC
 ```
@@ -126,7 +126,7 @@ TABLE WITHOUT ID
   summary as "Summary",
   platforms as "Platforms",
   pricing as "Pricing"
-FROM "AI/003_Content (TheAIs)"
+FROM #ai-tool
 WHERE contains(platforms, "Mobile")
 SORT file.name ASC
 ```
@@ -138,7 +138,7 @@ TABLE WITHOUT ID
   summary as "Summary",
   platforms as "Platforms",
   pricing as "Pricing"
-FROM "AI/003_Content (TheAIs)"
+FROM #ai-tool
 WHERE contains(platforms, "CLI")
 SORT file.name ASC
 ```
@@ -153,7 +153,7 @@ TABLE WITHOUT ID
   has_api as "API Available",
   api_type as "API Type",
   pricing as "Pricing"
-FROM "AI/003_Content (TheAIs)"
+FROM #ai-tool
 WHERE has_api = "yes"
 SORT file.name ASC
 ```
@@ -165,7 +165,7 @@ TABLE WITHOUT ID
   summary as "Summary",
   api_type as "API Type",
   pricing as "Pricing"
-FROM "AI/003_Content (TheAIs)"
+FROM #ai-tool
 WHERE api_type = "REST"
 SORT file.name ASC
 ```
@@ -177,7 +177,7 @@ TABLE WITHOUT ID
   summary as "Summary",
   api_type as "API Type",
   pricing as "Pricing"
-FROM "AI/003_Content (TheAIs)"
+FROM #ai-tool
 WHERE api_type = "GraphQL"
 SORT file.name ASC
 ```
@@ -191,7 +191,7 @@ TABLE WITHOUT ID
   summary as "Summary",
   response_time as "Response Time",
   pricing as "Pricing"
-FROM "AI/003_Content (TheAIs)"
+FROM #ai-tool
 WHERE response_time = "fast"
 SORT file.name ASC
 ```
@@ -203,7 +203,7 @@ TABLE WITHOUT ID
   summary as "Summary",
   response_time as "Response Time",
   pricing as "Pricing"
-FROM "AI/003_Content (TheAIs)"
+FROM #ai-tool
 WHERE response_time = "medium"
 SORT file.name ASC
 ```
@@ -217,7 +217,7 @@ TABLE WITHOUT ID
   summary as "Summary",
   status as "Status",
   last_verified as "Last Verified"
-FROM "AI/003_Content (TheAIs)"
+FROM #ai-tool
 WHERE status = "active"
 SORT last_verified DESC
 ```
@@ -229,7 +229,7 @@ TABLE WITHOUT ID
   summary as "Summary",
   status as "Status",
   last_verified as "Last Verified"
-FROM "AI/003_Content (TheAIs)"
+FROM #ai-tool
 WHERE status = "beta"
 SORT file.name ASC
 ```
@@ -241,7 +241,7 @@ TABLE WITHOUT ID
   summary as "Summary",
   last_verified as "Last Verified",
   status as "Status"
-FROM "AI/003_Content (TheAIs)"
+FROM #ai-tool
 WHERE last_verified >= date(today) - dur(30 days)
 SORT last_verified DESC
 ```
@@ -255,7 +255,7 @@ TABLE WITHOUT ID
   summary as "Summary",
   integrations as "Integrations",
   pricing as "Pricing"
-FROM "AI/003_Content (TheAIs)"
+FROM #ai-tool
 WHERE contains(integrations, "VSCode")
 SORT file.name ASC
 ```
@@ -267,7 +267,7 @@ TABLE WITHOUT ID
   summary as "Summary",
   integrations as "Integrations",
   pricing as "Pricing"
-FROM "AI/003_Content (TheAIs)"
+FROM #ai-tool
 WHERE contains(integrations, "GitHub")
 SORT file.name ASC
 ```
@@ -279,7 +279,7 @@ TABLE WITHOUT ID
   summary as "Summary",
   integrations as "Integrations",
   pricing as "Pricing"
-FROM "AI/003_Content (TheAIs)"
+FROM #ai-tool
 WHERE contains(integrations, "Slack")
 SORT file.name ASC
 ```
@@ -294,7 +294,7 @@ TABLE WITHOUT ID
   rating as "Rating",
   pricing as "Pricing",
   sign_up_required as "Sign-up Required"
-FROM "AI/003_Content (TheAIs)"
+FROM #ai-tool
 WHERE pricing = "free" AND rating >= 4.0 AND sign_up_required = "no"
 SORT rating DESC
 ```
@@ -307,7 +307,7 @@ TABLE WITHOUT ID
   has_api as "API Available",
   response_time as "Response Time",
   status as "Status"
-FROM "AI/003_Content (TheAIs)"
+FROM #ai-tool
 WHERE has_api = "yes" AND response_time = "fast" AND status = "active"
 SORT file.name ASC
 ```
@@ -320,7 +320,7 @@ TABLE WITHOUT ID
   platforms as "Platforms",
   pricing as "Pricing",
   rating as "Rating"
-FROM "AI/003_Content (TheAIs)"
+FROM #ai-tool
 WHERE contains(platforms, "Desktop") AND pricing = "paid" AND rating >= 4.0
 SORT rating DESC
 ```
@@ -332,7 +332,7 @@ SORT rating DESC
 TABLE WITHOUT ID
   length(rows) as "Count",
   pricing as "Pricing Type"
-FROM "AI/003_Content (TheAIs)"
+FROM #ai-tool
 WHERE pricing
 GROUP BY pricing
 SORT Count DESC
@@ -343,7 +343,7 @@ SORT Count DESC
 TABLE WITHOUT ID
   length(rows) as "Count",
   platform as "Platform"
-FROM "AI/003_Content (TheAIs)"
+FROM #ai-tool
 FLATTEN platforms as platform
 WHERE platform
 GROUP BY platform
@@ -355,7 +355,7 @@ SORT Count DESC
 TABLE WITHOUT ID
   length(rows) as "Count",
   status as "Status"
-FROM "AI/003_Content (TheAIs)"
+FROM #ai-tool
 WHERE status
 GROUP BY status
 SORT Count DESC
