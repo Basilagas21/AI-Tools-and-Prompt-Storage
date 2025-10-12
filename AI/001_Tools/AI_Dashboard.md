@@ -8,15 +8,6 @@ This dashboard is the central hub for discovering and managing AI tools and webs
 2.  **Tagging**: Each tool should be tagged with `#ai-tool` and at least one category tag (e.g., `#AI/TextGeneration`). This allows the dashboard to automatically list the tool.
 3.  **Categories**: The `002_AI categories` folder contains notes for each category. You can add descriptions or other relevant information to these notes.
 
-## 📂 AI Categories
-
-```dataview
-TABLE WITHOUT ID
-  file.link as "AICategory"
-FROM "002_AI categories"
-SORT file.name ASC
-```
-
 ## 🛠️ All AI Tools
 
 ```dataview
@@ -39,7 +30,7 @@ TABLE WITHOUT ID
   file.link as "Tool",
   summary as "Summary"
 FROM #ai-tool
-WHERE contains(tags, "AI/TextGeneration")
+WHERE contains(tags, "AI/TextGeneration") OR contains(tags, "category/text-generation")
 SORT file.name ASC
 ```
 
@@ -50,7 +41,7 @@ TABLE WITHOUT ID
   file.link as "Tool",
   summary as "Summary"
 FROM #ai-tool
-WHERE contains(tags, "AI/CodingAIs")
+WHERE contains(tags, "AI/CodingAIs") OR contains(tags, "category/coding")
 SORT file.name ASC
 ```
 
@@ -61,7 +52,7 @@ TABLE WITHOUT ID
   file.link as "Tool",
   summary as "Summary"
 FROM #ai-tool
-WHERE contains(tags, "AI/AI_WritingTools")
+WHERE contains(tags, "AI/AI_WritingTools") OR contains(tags, "category/writing")
 SORT file.name ASC
 ```
 
@@ -83,7 +74,7 @@ TABLE WITHOUT ID
   file.link as "Tool",
   summary as "Summary"
 FROM #ai-tool
-WHERE contains(tags, "AI/ImageGeneration")
+WHERE contains(tags, "AI/ImageGeneration") OR contains(tags, "category/image-generation")
 SORT file.name ASC
 ```
 
@@ -160,7 +151,7 @@ TABLE WITHOUT ID
   file.link as "Tool",
   summary as "Summary"
 FROM #ai-tool
-WHERE contains(tags, "AI/AI_Agents")
+WHERE contains(tags, "AI/AI_Agents") OR contains(tags, "category/ai-agent")
 SORT file.name ASC
 ```
 
@@ -193,6 +184,6 @@ TABLE WITHOUT ID
   file.link as "Tool",
   summary as "Summary"
 FROM #ai-tool
-WHERE contains(tags, "AI/Productivity")
+WHERE contains(tags, "AI/Productivity") OR contains(tags, "category/productivity")
 SORT file.name ASC
 ```
