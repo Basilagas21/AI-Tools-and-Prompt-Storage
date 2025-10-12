@@ -1,5 +1,6 @@
 ---
 tags:
+  - ai-tool
   - AI/CodingAIs
   - AI
 summary: "Llama Coder code generator with no sign-up required"

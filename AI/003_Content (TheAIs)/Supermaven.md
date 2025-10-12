@@ -1,5 +1,6 @@
 ---
 tags:
+  - ai-tool
   - AI/CodingAIs
   - AI
 summary: "Supermaven coding AI with no sign-up required"

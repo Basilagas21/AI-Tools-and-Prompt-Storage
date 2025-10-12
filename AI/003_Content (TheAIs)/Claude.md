@@ -1,5 +1,6 @@
 ---
 tags:
+  - ai-tool
   - AI/TextGeneration
   - AI
 summary: "Anthropic's Claude 4.5 Sonnet requiring phone number sign-up with usage tracker"

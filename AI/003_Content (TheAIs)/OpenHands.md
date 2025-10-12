@@ -1,5 +1,6 @@
 ---
 tags:
+  - ai-tool
   - AI/CodingAIs
   - AI
 summary: "OpenHands coding AI with comprehensive development features"

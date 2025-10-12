@@ -1,5 +1,6 @@
 ---
 tags:
+  - ai-tool
   - AI/TextGeneration
   - AI
 summary: "Mistral's Magistral Medium with privacy-focused approach"

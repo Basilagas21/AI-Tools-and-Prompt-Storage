@@ -1,5 +1,6 @@
 ---
 tags:
+  - ai-tool
   - AI/CodingAIs
   - AI
 summary: "Open Interpreter run code locally with no sign-up required"

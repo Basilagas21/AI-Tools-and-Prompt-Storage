@@ -1,5 +1,6 @@
 ---
 tags:
+  - ai-tool
   - AI/TextGeneration
   - AI
 summary: "Reka's Reka Flash 3.1 chatbot platform"

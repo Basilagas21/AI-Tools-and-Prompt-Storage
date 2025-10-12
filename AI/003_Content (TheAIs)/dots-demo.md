@@ -1,5 +1,6 @@
 ---
 tags:
+  - ai-tool
   - AI/TextGeneration
   - AI
 summary: "Dots Chatbot with no sign-up required"

@@ -1,5 +1,6 @@
 ---
 tags:
+  - ai-tool
   - AI/SelfHostingTools
   - AI
 summary: "SillyTavern self-hosted interface for AI interactions"

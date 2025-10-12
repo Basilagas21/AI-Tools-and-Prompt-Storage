@@ -1,5 +1,6 @@
 ---
 tags:
+  - ai-tool
   - AI/TextGeneration
   - AI
 summary: "Moonshot AI's Kimi K2-0905 Chatbot platform"

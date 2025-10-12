@@ -5,10 +5,10 @@ This dashboard is the central hub for discovering and managing AI tools and webs
 ## 🚀 How to Use
 
 1.  **Add a New AI Tool**: To add a new AI tool, create a new note in the `003_Content (TheAIs)` folder. Use the [[AI_Tool_Template]] from the `099_Templates` folder to structure your note.
-2.  **Tagging**: Each tool should be tagged with `#ai-tool` and at least one category tag (e.g., `#category/text-generation`). This allows the dashboard to automatically list the tool.
+2.  **Tagging**: Each tool should be tagged with `#ai-tool` and at least one category tag (e.g., `#AI/TextGeneration`). This allows the dashboard to automatically list the tool.
 3.  **Categories**: The `002_AI categories` folder contains notes for each category. You can add descriptions or other relevant information to these notes.
 
-## 📂 Categories
+## 📂 AI Categories
 
 ```dataview
 TABLE WITHOUT ID
@@ -16,8 +16,6 @@ TABLE WITHOUT ID
 FROM "002_AI categories"
 SORT file.name ASC
 ```
-
-
 
 ## 🛠️ All AI Tools
 
@@ -27,5 +25,174 @@ TABLE WITHOUT ID
   summary as "Summary",
   tags as "AICategories"
 FROM #ai-tool
+SORT file.name ASC
+```
+
+---
+
+## 📋 Category-Specific Tools
+
+### 🤖 Text Generation AIs
+
+```dataview
+TABLE WITHOUT ID
+  file.link as "Tool",
+  summary as "Summary"
+FROM #ai-tool
+WHERE contains(tags, "AI/TextGeneration")
+SORT file.name ASC
+```
+
+### 💻 Coding AIs
+
+```dataview
+TABLE WITHOUT ID
+  file.link as "Tool",
+  summary as "Summary"
+FROM #ai-tool
+WHERE contains(tags, "AI/CodingAIs")
+SORT file.name ASC
+```
+
+### ✍️ AI Writing Tools
+
+```dataview
+TABLE WITHOUT ID
+  file.link as "Tool",
+  summary as "Summary"
+FROM #ai-tool
+WHERE contains(tags, "AI/AI_WritingTools")
+SORT file.name ASC
+```
+
+### 🎬 Video Generation AIs
+
+```dataview
+TABLE WITHOUT ID
+  file.link as "Tool",
+  summary as "Summary"
+FROM #ai-tool
+WHERE contains(tags, "AI/VideoGeneration")
+SORT file.name ASC
+```
+
+### 🎨 Image Generation AIs
+
+```dataview
+TABLE WITHOUT ID
+  file.link as "Tool",
+  summary as "Summary"
+FROM #ai-tool
+WHERE contains(tags, "AI/ImageGeneration")
+SORT file.name ASC
+```
+
+### 🎵 Audio Generation AIs
+
+```dataview
+TABLE WITHOUT ID
+  file.link as "Tool",
+  summary as "Summary"
+FROM #ai-tool
+WHERE contains(tags, "AI/AudioRelated")
+SORT file.name ASC
+```
+
+### 📊 AI Benchmarks
+
+```dataview
+TABLE WITHOUT ID
+  file.link as "Tool",
+  summary as "Summary"
+FROM #ai-tool
+WHERE contains(tags, "AI/AI_Benchmarks")
+SORT file.name ASC
+```
+
+### 📚 AI Indexes
+
+```dataview
+TABLE WITHOUT ID
+  file.link as "Tool",
+  summary as "Summary"
+FROM #ai-tool
+WHERE contains(tags, "AI/AI_Indexes")
+SORT file.name ASC
+```
+
+### 🎭 Roleplaying AIs
+
+```dataview
+TABLE WITHOUT ID
+  file.link as "Tool",
+  summary as "Summary"
+FROM #ai-tool
+WHERE contains(tags, "AI/RoleplayingAIs")
+SORT file.name ASC
+```
+
+### 🏠 Self-Hosting Tools
+
+```dataview
+TABLE WITHOUT ID
+  file.link as "Tool",
+  summary as "Summary"
+FROM #ai-tool
+WHERE contains(tags, "AI/SelfHostingTools")
+SORT file.name ASC
+```
+
+### 🎯 AI Prompts
+
+```dataview
+TABLE WITHOUT ID
+  file.link as "Tool",
+  summary as "Summary"
+FROM #ai-tool
+WHERE contains(tags, "AI/AI_Prompts")
+SORT file.name ASC
+```
+
+### 🤖 AI Agents
+
+```dataview
+TABLE WITHOUT ID
+  file.link as "Tool",
+  summary as "Summary"
+FROM #ai-tool
+WHERE contains(tags, "AI/AI_Agents")
+SORT file.name ASC
+```
+
+### 🔍 AI Detection
+
+```dataview
+TABLE WITHOUT ID
+  file.link as "Tool",
+  summary as "Summary"
+FROM #ai-tool
+WHERE contains(tags, "AI/AI_Detection")
+SORT file.name ASC
+```
+
+### 🛠️ Miscellaneous AIs
+
+```dataview
+TABLE WITHOUT ID
+  file.link as "Tool",
+  summary as "Summary"
+FROM #ai-tool
+WHERE contains(tags, "AI/Miscellaneous")
+SORT file.name ASC
+```
+
+### ⚡ Productivity AIs
+
+```dataview
+TABLE WITHOUT ID
+  file.link as "Tool",
+  summary as "Summary"
+FROM #ai-tool
+WHERE contains(tags, "AI/Productivity")
 SORT file.name ASC
 ```

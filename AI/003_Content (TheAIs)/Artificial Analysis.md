@@ -1,5 +1,6 @@
 ---
 tags:
+  - ai-tool
   - AI/AI_Benchmarks
   - AI
 summary: "Artificial Analysis chatbot benchmarks for model comparison"

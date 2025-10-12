@@ -1,5 +1,6 @@
 ---
 tags:
+  - ai-tool
   - AI/TextGeneration
   - AI
 summary: "X's Grok AI with Grok 4 Fast (80 daily) and Grok 4 (20 daily) with rate display"

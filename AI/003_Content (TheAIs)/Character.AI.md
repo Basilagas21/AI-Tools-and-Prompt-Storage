@@ -1,5 +1,6 @@
 ---
 tags:
+  - ai-tool
   - AI/RoleplayingAIs
   - AI
 summary: "Character.AI roleplaying chatbots with character extraction capabilities"

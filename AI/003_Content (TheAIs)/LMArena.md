@@ -1,5 +1,6 @@
 ---
 tags:
+  - ai-tool
   - AI/TextGeneration
   - AI
 summary: "LMArena providing multiple chatbots with no sign-up required and usage limits"
