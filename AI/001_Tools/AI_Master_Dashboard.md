@@ -40,16 +40,6 @@ GROUP BY tag
 SORT length(rows) DESC
 ```
 
-## 🚀 Quick Navigation
-
-### 📂 All Categories
-```dataview
-TABLE WITHOUT ID
-  file.link as "Category"
-FROM "AI/002_AI categories"
-SORT file.name ASC
-```
-
 ### 🏆 Top Rated Tools
 ```dataview
 TABLE WITHOUT ID
