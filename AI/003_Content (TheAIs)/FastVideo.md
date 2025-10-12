@@ -1,6 +1,8 @@
 ---
 tags:
+  - ai-tool
   - AI/VideoGeneration
+  - AI/Productivity
   - AI
 summary: "FastVideo video generation with unlimited usage"
 ---

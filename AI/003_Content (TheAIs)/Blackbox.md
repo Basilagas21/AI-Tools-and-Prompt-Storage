@@ -2,6 +2,7 @@
 tags:
   - ai-tool
   - AI/CodingAIs
+  - AI/Productivity
   - AI
 summary: "Blackbox coding AI with no sign-up required"
 ---

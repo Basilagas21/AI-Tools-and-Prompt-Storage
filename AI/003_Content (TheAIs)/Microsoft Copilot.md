@@ -2,6 +2,10 @@
 tags:
   - ai-tool
   - AI/TextGeneration
+  - AI/CodingAIs
+  - AI/AI_WritingTools
+  - AI/AI_Agents
+  - AI/Productivity
   - AI
 summary: "Microsoft's AI assistant powered by GPT-5, GPT-4o, and o4-mini with reasoning capabilities"
 ---

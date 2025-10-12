@@ -1,6 +1,9 @@
 ---
 tags:
+  - ai-tool
   - AI/TextGeneration
+  - AI/AI_Agents
+  - AI/Productivity
   - AI
 summary: "SciSpace research chatbot with no sign-up required"
 ---

@@ -1,6 +1,8 @@
 ---
 tags:
+  - ai-tool
   - AI/VideoGeneration
+  - AI/Productivity
   - AI
 summary: "Opal Veo 3 video generation with unlimited usage requiring US IP or VPN"
 ---

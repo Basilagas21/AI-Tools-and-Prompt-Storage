@@ -1,7 +1,8 @@
 ---
 tags:
   - ai-tool
-  - AI/AudioRelated
+  - AI/AudioGeneration
+  - AI/Productivity
   - AI
 summary: "Suno music generation with 10 daily requests and comprehensive guide"
 ---

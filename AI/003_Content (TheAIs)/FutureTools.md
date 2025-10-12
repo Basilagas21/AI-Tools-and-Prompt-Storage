@@ -2,6 +2,7 @@
 tags:
   - ai-tool
   - AI/AI_Indexes
+  - AI/Productivity
   - AI
 summary: "FutureTools AI directory for discovering AI tools"
 ---

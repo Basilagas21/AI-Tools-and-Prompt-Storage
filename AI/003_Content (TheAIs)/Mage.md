@@ -1,6 +1,8 @@
 ---
 tags:
+  - ai-tool
   - AI/ImageGeneration
+  - AI/Productivity
   - AI
 summary: "Mage Flux Schnell image generation requiring sign-up"
 ---

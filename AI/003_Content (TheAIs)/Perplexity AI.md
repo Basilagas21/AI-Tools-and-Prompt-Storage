@@ -1,9 +1,10 @@
-
 ---
 tags:
   - ai-tool
-  - category/productivity
-  - category/ai-agent
+  - AI/TextGeneration
+  - AI/AI_Agents
+  - AI/Productivity
+  - AI
 summary: "AI-powered search and answer engine"
 ---
 # Perplexity AI

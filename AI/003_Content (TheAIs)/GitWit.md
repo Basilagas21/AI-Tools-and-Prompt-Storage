@@ -2,6 +2,7 @@
 tags:
   - ai-tool
   - AI/CodingAIs
+  - AI/Productivity
   - AI
 summary: "GitWit coding AI for development assistance"
 ---

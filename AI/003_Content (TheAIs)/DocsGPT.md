@@ -1,6 +1,11 @@
 ---
 tags:
+  - ai-tool
   - AI/TextGeneration
+  - AI/AI_WritingTools
+  - AI/AI_Agents
+  - AI/SelfHostingTools
+  - AI/Productivity
   - AI
 summary: "DocsGPT document chatbot with note-taking capabilities"
 ---

@@ -2,6 +2,7 @@
 tags:
   - ai-tool
   - AI/CodingAIs
+  - AI/Productivity
   - AI
 summary: "Codacy code fixing AI for automated code improvement"
 ---

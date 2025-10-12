@@ -2,6 +2,8 @@
 tags:
   - ai-tool
   - AI/TextGeneration
+  - AI/AI_Indexes
+  - AI/Productivity
   - AI
 summary: "Free LLM API Resources providing chatbot resources and mirrors"
 ---

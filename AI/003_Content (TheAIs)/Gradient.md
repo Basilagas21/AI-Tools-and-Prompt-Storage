@@ -1,6 +1,10 @@
 ---
 tags:
+  - ai-tool
   - AI/TextGeneration
+  - AI/AI_Agents
+  - AI/AI_Indexes
+  - AI/Productivity
   - AI
 summary: "Gradient providing GPT-OSS-120B, Qwen3-235B-A22B with no sign-up required"
 ---

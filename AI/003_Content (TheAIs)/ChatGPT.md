@@ -2,6 +2,10 @@
 tags:
   - ai-tool
   - AI/TextGeneration
+  - AI/CodingAIs
+  - AI/AI_WritingTools
+  - AI/AI_Agents
+  - AI/Productivity
   - AI
 summary: "OpenAI's ChatGPT with GPT-5 and GPT-5 mini chatbot with limits and reasoning capabilities"
 ---

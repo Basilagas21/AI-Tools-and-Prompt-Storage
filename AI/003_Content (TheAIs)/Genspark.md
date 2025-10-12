@@ -1,6 +1,10 @@
 ---
 tags:
+  - ai-tool
   - AI/TextGeneration
+  - AI/AI_Agents
+  - AI/AI_Indexes
+  - AI/Productivity
   - AI
 summary: "Genspark providing GPT-5-high, Gemini 2.5 Pro, Grok 4 requiring sign-up"
 ---

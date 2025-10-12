@@ -1,6 +1,10 @@
 ---
 tags:
+  - ai-tool
   - AI/TextGeneration
+  - AI/AI_Agents
+  - AI/AI_Indexes
+  - AI/Productivity
   - AI
 summary: "HiveChat providing Kimi K2, DeepSeek R1-0528, multiple chatbots requiring sign-up"
 ---

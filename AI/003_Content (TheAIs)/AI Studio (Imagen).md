@@ -2,6 +2,7 @@
 tags:
   - ai-tool
   - AI/ImageGeneration
+  - AI/Productivity
   - AI
 summary: "AI Studio Imagen 4 + Ultra with 100 per day requiring sign-up and region-based access"
 ---

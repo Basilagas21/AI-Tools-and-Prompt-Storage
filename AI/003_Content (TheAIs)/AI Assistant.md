@@ -1,6 +1,9 @@
 ---
 tags:
+  - ai-tool
   - AI/TextGeneration
+  - AI/AI_Agents
+  - AI/Productivity
   - AI
 summary: "AI Assistant providing Deepseek-R1, Qwen QwQ-32B, multiple chatbots with no sign-up required"
 ---

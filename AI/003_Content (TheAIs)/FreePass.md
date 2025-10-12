@@ -1,6 +1,10 @@
 ---
 tags:
+  - ai-tool
   - AI/TextGeneration
+  - AI/AI_Agents
+  - AI/AI_Indexes
+  - AI/Productivity
   - AI
 summary: "FreePass providing Gemini 2.5 Pro, GPT-5-chat with no sign-up required"
 ---

@@ -2,6 +2,7 @@
 tags:
   - ai-tool
   - AI/AI_Benchmarks
+  - AI/Productivity
   - AI
 summary: "Artificial Analysis chatbot benchmarks for model comparison"
 ---

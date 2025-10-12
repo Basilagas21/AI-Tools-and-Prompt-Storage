@@ -1,6 +1,8 @@
 ---
 tags:
+  - ai-tool
   - AI/AI_Indexes
+  - AI/Productivity
   - AI
 summary: "WebSim simple AI builders and simulators"
 ---

@@ -1,6 +1,8 @@
 ---
 tags:
-  - AI/AudioRelated
+  - ai-tool
+  - AI/AudioGeneration
+  - AI/Productivity
   - AI
 summary: "Bark text-to-speech with no sign-up required and usage limits"
 ---

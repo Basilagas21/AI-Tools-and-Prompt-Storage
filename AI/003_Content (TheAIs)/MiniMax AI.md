@@ -2,6 +2,9 @@
 tags:
   - ai-tool
   - AI/TextGeneration
+  - AI/AI_WritingTools
+  - AI/AI_Agents
+  - AI/Productivity
   - AI
 summary: "MiniMax AI's Minimax-M1 chatbot platform"
 ---

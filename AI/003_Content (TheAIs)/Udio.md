@@ -1,6 +1,8 @@
 ---
 tags:
-  - AI/AudioRelated
+  - ai-tool
+  - AI/AudioGeneration
+  - AI/Productivity
   - AI
 summary: "Udio music generation with 3 daily requests"
 ---

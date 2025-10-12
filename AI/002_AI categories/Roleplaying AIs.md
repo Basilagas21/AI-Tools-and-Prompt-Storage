@@ -15,3 +15,12 @@ AI tools designed for character-based interactions, storytelling, and roleplayin
 - Interactive Fiction
 - Chatbot Builders
 - Voice Chat
+
+## 🛠️ Tools in this Category
+
+```dataview
+LIST
+FROM "AI/003_Content (TheAIs)"
+WHERE contains(tags, "AI/RoleplayingAIs")
+SORT file.name ASC
+```

@@ -1,6 +1,8 @@
 ---
 tags:
+  - ai-tool
   - AI/VideoGeneration
+  - AI/Productivity
   - AI
 summary: "Vidu video generation with 10 monthly requests"
 ---

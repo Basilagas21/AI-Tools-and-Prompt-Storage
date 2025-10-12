@@ -2,6 +2,10 @@
 tags:
   - ai-tool
   - AI/TextGeneration
+  - AI/AI_Agents
+  - AI/AI_Indexes
+  - AI/AI_Benchmarks
+  - AI/Productivity
   - AI
 summary: "LMArena providing multiple chatbots with no sign-up required and usage limits"
 ---

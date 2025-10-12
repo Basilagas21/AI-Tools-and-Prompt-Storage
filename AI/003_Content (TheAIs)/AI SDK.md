@@ -2,6 +2,7 @@
 tags:
   - ai-tool
   - AI/CodingAIs
+  - AI/Productivity
   - AI
 summary: "AI SDK coding AI for development frameworks"
 ---

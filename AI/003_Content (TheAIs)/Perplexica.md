@@ -1,6 +1,10 @@
 ---
 tags:
+  - ai-tool
   - AI/TextGeneration
+  - AI/SelfHostingTools
+  - AI/AI_Agents
+  - AI/Productivity
   - AI
 summary: "Perplexica FOSS AI search engine with self-hosted capabilities"
 ---

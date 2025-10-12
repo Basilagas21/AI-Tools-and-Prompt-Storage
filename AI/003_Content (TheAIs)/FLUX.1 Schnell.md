@@ -1,6 +1,8 @@
 ---
 tags:
+  - ai-tool
   - AI/ImageGeneration
+  - AI/Productivity
   - AI
 summary: "FLUX.1 Schnell image generation with limits and no sign-up required"
 ---

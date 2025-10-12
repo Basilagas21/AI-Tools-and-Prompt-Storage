@@ -2,6 +2,9 @@
 tags:
   - ai-tool
   - AI/TextGeneration
+  - AI/AI_WritingTools
+  - AI/AI_Agents
+  - AI/Productivity
   - AI
 summary: "Moonshot AI's Kimi K2-0905 Chatbot platform"
 ---

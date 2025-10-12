@@ -2,6 +2,8 @@
 tags:
   - ai-tool
   - AI/CodingAIs
+  - AI/AI_Indexes
+  - AI/Productivity
   - AI
 summary: "Pieces multi-LLM coding AI with GPT-4 and 4o for free"
 ---

@@ -1,6 +1,9 @@
 ---
 tags:
+  - ai-tool
   - AI/AI_WritingTools
+  - AI/TextGeneration
+  - AI/Productivity
   - AI
 summary: "Scrip AI online AI text tools with no sign-up required"
 ---

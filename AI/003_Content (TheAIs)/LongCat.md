@@ -2,6 +2,8 @@
 tags:
   - ai-tool
   - AI/TextGeneration
+  - AI/AI_Agents
+  - AI/Productivity
   - AI
 summary: "LongCat-Flash-Chat with unlimited usage"
 ---

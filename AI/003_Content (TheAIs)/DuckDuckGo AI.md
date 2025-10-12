@@ -1,6 +1,10 @@
 ---
 tags:
+  - ai-tool
   - AI/TextGeneration
+  - AI/AI_Agents
+  - AI/AI_Indexes
+  - AI/Productivity
   - AI
 summary: "DuckDuckGo AI providing GPT-5 mini and multiple chatbots with no sign-up required"
 ---

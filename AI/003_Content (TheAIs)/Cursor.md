@@ -2,6 +2,9 @@
 tags:
   - ai-tool
   - AI/CodingAIs
+  - AI/TextGeneration
+  - AI/AI_Agents
+  - AI/Productivity
   - AI
 summary: "Cursor coding AI with advanced development features"
 ---

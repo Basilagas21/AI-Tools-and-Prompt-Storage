@@ -1,8 +1,9 @@
-
 ---
 tags:
   - ai-tool
-  - category/image-generation
+  - AI/ImageGeneration
+  - AI/Productivity
+  - AI
 summary: "Image Generation"
 ---
 # Midjourney

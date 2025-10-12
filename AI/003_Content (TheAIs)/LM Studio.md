@@ -1,6 +1,10 @@
 ---
 tags:
+  - ai-tool
   - AI/SelfHostingTools
+  - AI/TextGeneration
+  - AI/CodingAIs
+  - AI/Productivity
   - AI
 summary: "LM Studio self-hosted AI model runner"
 ---

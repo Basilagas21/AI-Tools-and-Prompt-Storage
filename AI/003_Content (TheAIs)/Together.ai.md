@@ -1,6 +1,10 @@
 ---
 tags:
+  - ai-tool
   - AI/TextGeneration
+  - AI/AI_Agents
+  - AI/AI_Indexes
+  - AI/Productivity
   - AI
 summary: "Together.ai providing DeepSeek V3.1, Qwen 3 235B-2507 with up to 110 daily requests"
 ---

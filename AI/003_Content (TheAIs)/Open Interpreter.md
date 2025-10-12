@@ -2,6 +2,9 @@
 tags:
   - ai-tool
   - AI/CodingAIs
+  - AI/SelfHostingTools
+  - AI/AI_Agents
+  - AI/Productivity
   - AI
 summary: "Open Interpreter run code locally with no sign-up required"
 ---

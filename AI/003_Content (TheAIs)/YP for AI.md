@@ -1,6 +1,8 @@
 ---
 tags:
+  - ai-tool
   - AI/AI_Indexes
+  - AI/Productivity
   - AI
 summary: "YP for AI AI directory for discovering AI tools"
 ---

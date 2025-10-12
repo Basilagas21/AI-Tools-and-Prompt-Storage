@@ -2,6 +2,10 @@
 tags:
   - ai-tool
   - AI/TextGeneration
+  - AI/CodingAIs
+  - AI/AI_WritingTools
+  - AI/AI_Agents
+  - AI/Productivity
   - AI
 summary: "DeepSeek's advanced AI models including DeepSeek-V3.2-Exp with unlimited access"
 ---

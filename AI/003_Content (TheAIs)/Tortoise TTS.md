@@ -1,6 +1,8 @@
 ---
 tags:
-  - AI/AudioRelated
+  - ai-tool
+  - AI/AudioGeneration
+  - AI/Productivity
   - AI
 summary: "Tortoise TTS text-to-speech with no sign-up required"
 ---

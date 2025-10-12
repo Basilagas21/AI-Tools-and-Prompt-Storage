@@ -1,6 +1,8 @@
 ---
 tags:
+  - ai-tool
   - AI/RoleplayingAIs
+  - AI/Productivity
   - AI
 summary: "Chub character cards with some NSFW content"
 ---

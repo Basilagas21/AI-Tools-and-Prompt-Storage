@@ -1,6 +1,8 @@
 ---
 tags:
+  - ai-tool
   - AI/ImageGeneration
+  - AI/Productivity
   - AI
 summary: "Perchance unlimited image generation with no sign-up required"
 ---

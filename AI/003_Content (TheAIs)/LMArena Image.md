@@ -1,6 +1,10 @@
 ---
 tags:
+  - ai-tool
   - AI/ImageGeneration
+  - AI/AI_Indexes
+  - AI/AI_Benchmarks
+  - AI/Productivity
   - AI
 summary: "LMArena multiple image generators with editing capabilities requiring Google login after 3 uses"
 ---

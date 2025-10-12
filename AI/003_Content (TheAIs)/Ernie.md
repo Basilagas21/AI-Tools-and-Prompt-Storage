@@ -2,6 +2,9 @@
 tags:
   - ai-tool
   - AI/TextGeneration
+  - AI/AI_WritingTools
+  - AI/AI_Agents
+  - AI/Productivity
   - AI
 summary: "Baidu's ERNIE X1.1 chatbot with 4.5 Demo and x1 Demo versions"
 ---

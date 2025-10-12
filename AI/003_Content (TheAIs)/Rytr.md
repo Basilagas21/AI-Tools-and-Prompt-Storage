@@ -2,6 +2,8 @@
 tags:
   - ai-tool
   - AI/AI_WritingTools
+  - AI/TextGeneration
+  - AI/Productivity
   - AI
 summary: "Rytr AI creative writing tools with no sign-up required"
 ---

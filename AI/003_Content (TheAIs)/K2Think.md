@@ -2,6 +2,8 @@
 tags:
   - ai-tool
   - AI/TextGeneration
+  - AI/AI_Agents
+  - AI/Productivity
   - AI
 summary: "K2Think's LLM360 MBZUAI Chatbot requiring sign-up"
 ---

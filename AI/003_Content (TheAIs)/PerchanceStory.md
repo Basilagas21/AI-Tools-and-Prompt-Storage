@@ -1,6 +1,9 @@
 ---
 tags:
+  - ai-tool
   - AI/AI_WritingTools
+  - AI/TextGeneration
+  - AI/Productivity
   - AI
 summary: "PerchanceStory story writing AI for creative narratives"
 ---

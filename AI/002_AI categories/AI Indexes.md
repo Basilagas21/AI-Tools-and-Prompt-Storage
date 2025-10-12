@@ -15,3 +15,12 @@ Comprehensive directories and indexes of AI tools, models, and resources.
 - Resource Collections
 - Community Indexes
 - Curated Lists
+
+## 🛠️ Tools in this Category
+
+```dataview
+LIST
+FROM "AI/003_Content (TheAIs)"
+WHERE contains(tags, "AI/AI_Indexes")
+SORT file.name ASC
+```

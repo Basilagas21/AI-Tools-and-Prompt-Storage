@@ -15,3 +15,12 @@ Tools and platforms for running AI models locally on your own hardware.
 - Web Interfaces
 - Model Management
 - GPU Optimization
+
+## 🛠️ Tools in this Category
+
+```dataview
+LIST
+FROM "AI/003_Content (TheAIs)"
+WHERE contains(tags, "AI/SelfHostingTools")
+SORT file.name ASC
+```

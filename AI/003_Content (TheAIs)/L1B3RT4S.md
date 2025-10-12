@@ -1,6 +1,8 @@
 ---
 tags:
+  - ai-tool
   - AI/AI_Prompts
+  - AI/Productivity
   - AI
 summary: "L1B3RT4S jailbreak prompts and AI manipulation"
 ---

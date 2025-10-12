@@ -2,6 +2,8 @@
 tags:
   - ai-tool
   - AI/TextGeneration
+  - AI/AI_Agents
+  - AI/Productivity
   - AI
 summary: "Solar Pro 2 Model with no sign-up required"
 ---

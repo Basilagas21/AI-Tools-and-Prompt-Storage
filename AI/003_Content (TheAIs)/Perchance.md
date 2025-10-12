@@ -1,6 +1,8 @@
 ---
 tags:
+  - ai-tool
   - AI/AI_Indexes
+  - AI/Productivity
   - AI
 summary: "Perchance simple AI builders and generators"
 ---

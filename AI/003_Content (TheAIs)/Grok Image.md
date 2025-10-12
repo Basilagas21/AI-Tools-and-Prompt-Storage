@@ -1,6 +1,8 @@
 ---
 tags:
+  - ai-tool
   - AI/ImageGeneration
+  - AI/Productivity
   - AI
 summary: "Grok image generation with 20 per 2 hours and editing capabilities requiring sign-up"
 ---

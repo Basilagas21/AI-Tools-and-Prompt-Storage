@@ -1,6 +1,9 @@
 ---
 tags:
+  - ai-tool
   - AI/AI_WritingTools
+  - AI/TextGeneration
+  - AI/Productivity
   - AI
 summary: "INK online AI text tool for content creation"
 ---

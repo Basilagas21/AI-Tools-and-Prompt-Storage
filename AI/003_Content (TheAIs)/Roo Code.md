@@ -2,6 +2,8 @@
 tags:
   - ai-tool
   - AI/CodingAIs
+  - AI/AI_Agents
+  - AI/Productivity
   - AI
 summary: "Roo Code coding AI with Cline integration"
 ---

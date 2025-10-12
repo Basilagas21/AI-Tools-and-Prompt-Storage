@@ -1,6 +1,8 @@
 ---
 tags:
-  - AI/AudioRelated
+  - ai-tool
+  - AI/AudioGeneration
+  - AI/Productivity
   - AI
 summary: "Stable Audio music generation with 10 monthly requests"
 ---

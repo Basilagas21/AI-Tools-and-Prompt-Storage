@@ -15,3 +15,12 @@ Resources for prompt engineering, jailbreaking, and optimizing AI interactions.
 - Prompt Engineering Guides
 - Prompt Playgrounds
 - Skill Games
+
+## 🛠️ Tools in this Category
+
+```dataview
+LIST
+FROM "AI/003_Content (TheAIs)"
+WHERE contains(tags, "AI/AI_Prompts")
+SORT file.name ASC
+```

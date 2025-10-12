@@ -2,6 +2,7 @@
 tags:
   - ai-tool
   - AI/CodingAIs
+  - AI/Productivity
   - AI
 summary: "Gemini CLI coding AI for command-line development"
 ---

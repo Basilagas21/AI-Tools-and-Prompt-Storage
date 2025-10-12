@@ -1,6 +1,8 @@
 ---
 tags:
-  - AI/AudioRelated
+  - ai-tool
+  - AI/AudioGeneration
+  - AI/Productivity
   - AI
 summary: "WolframTones music generation with no sign-up required"
 ---

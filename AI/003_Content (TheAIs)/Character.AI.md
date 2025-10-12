@@ -2,6 +2,8 @@
 tags:
   - ai-tool
   - AI/RoleplayingAIs
+  - AI/TextGeneration
+  - AI/AI_Agents
   - AI
 summary: "Character.AI roleplaying chatbots with character extraction capabilities"
 ---

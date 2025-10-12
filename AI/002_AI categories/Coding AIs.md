@@ -16,3 +16,12 @@ AI tools specifically designed for coding, programming, and software development
 - Documentation
 - Web Development
 - Terminal/CLI Tools
+
+## 🛠️ Tools in this Category
+
+```dataview
+LIST
+FROM "AI/003_Content (TheAIs)"
+WHERE contains(tags, "AI/CodingAIs")
+SORT file.name ASC
+```

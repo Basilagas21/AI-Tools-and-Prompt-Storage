@@ -1,6 +1,11 @@
 ---
 tags:
+  - ai-tool
   - AI/SelfHostingTools
+  - AI/TextGeneration
+  - AI/CodingAIs
+  - AI/AI_Agents
+  - AI/Productivity
   - AI
 summary: "Ollama self-hosted AI model runner"
 ---

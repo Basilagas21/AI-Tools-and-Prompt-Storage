@@ -2,6 +2,7 @@
 tags:
   - ai-tool
   - AI/VideoGeneration
+  - AI/Productivity
   - AI
 summary: "AI Studio Veo 2 video generation with advanced capabilities"
 ---

@@ -2,6 +2,10 @@
 tags:
   - ai-tool
   - AI/TextGeneration
+  - AI/CodingAIs
+  - AI/AI_WritingTools
+  - AI/AI_Agents
+  - AI/Productivity
   - AI
 summary: "Mistral's Magistral Medium with privacy-focused approach"
 ---

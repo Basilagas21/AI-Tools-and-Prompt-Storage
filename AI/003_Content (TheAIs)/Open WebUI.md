@@ -1,6 +1,10 @@
 ---
 tags:
+  - ai-tool
   - AI/SelfHostingTools
+  - AI/TextGeneration
+  - AI/CodingAIs
+  - AI/Productivity
   - AI
 summary: "Open WebUI self-hosted interface for AI models"
 ---

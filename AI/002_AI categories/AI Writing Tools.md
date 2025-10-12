@@ -15,3 +15,12 @@ AI-powered tools for content creation, writing assistance, and text generation.
 - Content Generation
 - Story Writing
 - Text Enhancement
+
+## 🛠️ Tools in this Category
+
+```dataview
+LIST
+FROM "AI/003_Content (TheAIs)"
+WHERE contains(tags, "AI/AI_WritingTools")
+SORT file.name ASC
+```

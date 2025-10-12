@@ -2,6 +2,9 @@
 tags:
   - ai-tool
   - AI/SelfHostingTools
+  - AI/TextGeneration
+  - AI/RoleplayingAIs
+  - AI/Productivity
   - AI
 summary: "SillyTavern self-hosted interface for AI interactions"
 ---

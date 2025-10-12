@@ -15,3 +15,12 @@ Tools and platforms for evaluating, comparing, and benchmarking AI models and th
 - Leaderboards
 - Evaluation Metrics
 - Benchmarking Tools
+
+## 🛠️ Tools in this Category
+
+```dataview
+LIST
+FROM "AI/003_Content (TheAIs)"
+WHERE contains(tags, "AI/AI_Benchmarks")
+SORT file.name ASC
+```

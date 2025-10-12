@@ -2,6 +2,8 @@
 tags:
   - ai-tool
   - AI/TextGeneration
+  - AI/AI_Agents
+  - AI/AI_WritingTools
   - AI
 summary: "Apertus 70B model requiring sign-up"
 ---

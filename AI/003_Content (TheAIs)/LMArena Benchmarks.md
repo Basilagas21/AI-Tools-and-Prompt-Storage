@@ -1,6 +1,8 @@
 ---
 tags:
+  - ai-tool
   - AI/AI_Benchmarks
+  - AI/Productivity
   - AI
 summary: "LMArena chatbot leaderboards and benchmarks"
 ---

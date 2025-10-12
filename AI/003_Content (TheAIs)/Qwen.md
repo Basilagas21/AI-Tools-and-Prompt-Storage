@@ -2,6 +2,10 @@
 tags:
   - ai-tool
   - AI/TextGeneration
+  - AI/CodingAIs
+  - AI/AI_WritingTools
+  - AI/AI_Agents
+  - AI/Productivity
   - AI
 summary: "Alibaba's Qwen models including Qwen3-Max, Qwen3-235B-A22B-2507, and Qwen3-Omni-Flash"
 ---

@@ -2,6 +2,9 @@
 tags:
   - ai-tool
   - AI/TextGeneration
+  - AI/AI_WritingTools
+  - AI/AI_Agents
+  - AI/Productivity
   - AI
 summary: "Z.ai's GLM 4.6 Chatbot with unlimited usage"
 ---
