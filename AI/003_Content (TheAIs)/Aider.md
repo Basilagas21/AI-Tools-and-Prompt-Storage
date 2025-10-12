@@ -1,6 +1,6 @@
 ---
 tags:
-  - AI/Coding AIs
+  - AI/CodingAIs
   - AI
 summary: "Aider terminal coding AI for command-line development"
 ---

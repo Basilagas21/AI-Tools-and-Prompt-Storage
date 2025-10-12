@@ -1,6 +1,6 @@
 ---
 tags:
-  - AI/Video Generation AIs
+  - AI/VideoGeneration
   - AI
 summary: "AI Studio Veo 2 video generation with advanced capabilities"
 ---

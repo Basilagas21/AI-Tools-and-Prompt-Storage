@@ -1,6 +1,6 @@
 ---
 tags:
-  - AI/Coding AIs
+  - AI/CodingAIs
   - AI
 summary: "Qwen Code CLI coding AI with comprehensive documentation"
 ---

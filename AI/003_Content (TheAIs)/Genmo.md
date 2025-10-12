@@ -1,6 +1,6 @@
 ---
 tags:
-  - AI/Video Generation AIs
+  - AI/VideoGeneration
   - AI
 summary: "Genmo video generation with 30 monthly requests"
 ---

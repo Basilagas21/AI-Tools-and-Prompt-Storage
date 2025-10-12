@@ -1,6 +1,6 @@
 ---
 tags:
-  - AI/Text Generation AIs
+  - AI/TextGeneration
   - AI
 summary: "NVIDIA NIM providing DeepSeek V3.1, Kimi K2, multiple chatbots with no sign-up required"
 ---

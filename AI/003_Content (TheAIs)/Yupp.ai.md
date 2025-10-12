@@ -1,6 +1,6 @@
 ---
 tags:
-  - AI/Text Generation AIs
+  - AI/TextGeneration
   - AI
 summary: "Yupp.ai offering o3 Pro, Claude 4.1 Opus, Grok 4, Gemini 2.5 Pro, DeepSeek V3.1 requiring Google login"
 ---

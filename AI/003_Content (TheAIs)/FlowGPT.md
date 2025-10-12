@@ -1,6 +1,6 @@
 ---
 tags:
-  - AI/Roleplaying AIs
+  - AI/RoleplayingAIs
   - AI
 summary: "FlowGPT roleplaying chatbots with some NSFW content"
 ---

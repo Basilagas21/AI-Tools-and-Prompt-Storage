@@ -1,6 +1,6 @@
 ---
 tags:
-  - AI/Audio Generation AIs
+  - AI/AudioRelated
   - AI
 summary: "Suno music generation with 10 daily requests and comprehensive guide"
 ---

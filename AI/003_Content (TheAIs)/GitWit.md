@@ -1,6 +1,6 @@
 ---
 tags:
-  - AI/Coding AIs
+  - AI/CodingAIs
   - AI
 summary: "GitWit coding AI for development assistance"
 ---

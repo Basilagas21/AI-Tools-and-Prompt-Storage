@@ -1,6 +1,6 @@
 ---
 tags:
-  - AI/Text Generation AIs
+  - AI/TextGeneration
   - AI
 summary: "PrivateGPT document chatbot with note-taking capabilities"
 ---

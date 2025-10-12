@@ -1,6 +1,6 @@
 ---
 tags:
-  - AI/Image Generation AIs
+  - AI/ImageGeneration
   - AI
 summary: "LMArena multiple image generators with editing capabilities requiring Google login after 3 uses"
 ---

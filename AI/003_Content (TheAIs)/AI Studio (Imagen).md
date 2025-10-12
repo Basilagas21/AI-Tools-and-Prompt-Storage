@@ -1,6 +1,6 @@
 ---
 tags:
-  - AI/Image Generation AIs
+  - AI/ImageGeneration
   - AI
 summary: "AI Studio Imagen 4 + Ultra with 100 per day requiring sign-up and region-based access"
 ---

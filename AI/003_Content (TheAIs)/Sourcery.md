@@ -1,6 +1,6 @@
 ---
 tags:
-  - AI/Coding AIs
+  - AI/CodingAIs
   - AI
 summary: "Sourcery auto-pull request reviews for code quality"
 ---

@@ -1,6 +1,6 @@
 ---
 tags:
-  - AI/Audio Generation AIs
+  - AI/AudioRelated
   - AI
 summary: "ElevenLabs text-to-speech with no sign-up required"
 ---

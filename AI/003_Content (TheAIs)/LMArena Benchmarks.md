@@ -1,6 +1,6 @@
 ---
 tags:
-  - AI/AI Benchmarks
+  - AI/AI_Benchmarks
   - AI
 summary: "LMArena chatbot leaderboards and benchmarks"
 ---

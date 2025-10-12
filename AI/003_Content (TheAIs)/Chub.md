@@ -1,6 +1,6 @@
 ---
 tags:
-  - AI/Roleplaying AIs
+  - AI/RoleplayingAIs
   - AI
 summary: "Chub character cards with some NSFW content"
 ---

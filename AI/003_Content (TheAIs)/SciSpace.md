@@ -1,6 +1,6 @@
 ---
 tags:
-  - AI/Text Generation AIs
+  - AI/TextGeneration
   - AI
 summary: "SciSpace research chatbot with no sign-up required"
 ---

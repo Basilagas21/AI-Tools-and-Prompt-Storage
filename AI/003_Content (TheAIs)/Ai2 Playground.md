@@ -1,6 +1,6 @@
 ---
 tags:
-  - AI/Text Generation AIs
+  - AI/TextGeneration
   - AI
 summary: "Ai2 Playground's OLMo 2 Chatbot with no sign-up required"
 ---

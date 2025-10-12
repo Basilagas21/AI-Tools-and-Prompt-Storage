@@ -1,6 +1,6 @@
 ---
 tags:
-  - AI/AI Writing Tools
+  - AI/AI_WritingTools
   - AI
 summary: "TextFX AI creative writing tools with no sign-up required"
 ---

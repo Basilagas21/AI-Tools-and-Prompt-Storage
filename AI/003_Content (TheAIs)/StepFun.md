@@ -1,6 +1,6 @@
 ---
 tags:
-  - AI/Text Generation AIs
+  - AI/TextGeneration
   - AI
 summary: "StepFun's Step 3 featuring DeepSeek R1 Chatbot"
 ---

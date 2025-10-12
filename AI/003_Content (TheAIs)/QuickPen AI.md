@@ -1,6 +1,6 @@
 ---
 tags:
-  - AI/AI Writing Tools
+  - AI/AI_WritingTools
   - AI
 summary: "QuickPen AI online AI text tool for content creation"
 ---

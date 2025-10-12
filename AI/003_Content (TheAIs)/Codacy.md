@@ -1,6 +1,6 @@
 ---
 tags:
-  - AI/Coding AIs
+  - AI/CodingAIs
   - AI
 summary: "Codacy code fixing AI for automated code improvement"
 ---

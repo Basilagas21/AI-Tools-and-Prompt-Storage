@@ -1,6 +1,6 @@
 ---
 tags:
-  - AI/Text Generation AIs
+  - AI/TextGeneration
   - AI
 summary: "Cohere's Command-A-Reasoning-08-2025 with 1000 monthly requests requiring sign-up"
 ---

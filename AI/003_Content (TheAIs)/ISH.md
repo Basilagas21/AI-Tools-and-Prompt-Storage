@@ -1,6 +1,6 @@
 ---
 tags:
-  - AI/Text Generation AIs
+  - AI/TextGeneration
   - AI
 summary: "ISH providing GPT-5, Grok 4, Kimi K2 and multiple chatbots with no sign-up required"
 ---

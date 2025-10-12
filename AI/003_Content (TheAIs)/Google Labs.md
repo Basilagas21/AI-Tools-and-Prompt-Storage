@@ -1,6 +1,6 @@
 ---
 tags:
-  - AI/AI Indexes
+  - AI/AI_Indexes
   - AI
 summary: "Google Labs Google AI experiments and tools"
 ---

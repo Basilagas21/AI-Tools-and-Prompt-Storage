@@ -1,6 +1,6 @@
 ---
 tags:
-  - AI/Audio Generation AIs
+  - AI/AudioRelated
   - AI
 summary: "Applio voice cloning with no sign-up required"
 ---

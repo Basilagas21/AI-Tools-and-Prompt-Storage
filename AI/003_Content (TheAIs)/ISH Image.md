@@ -1,6 +1,6 @@
 ---
 tags:
-  - AI/Image Generation AIs
+  - AI/ImageGeneration
   - AI
 summary: "ISH unlimited image generation with Seedream 4, Nano Banana, Flux Kontext editing and no sign-up required"
 ---

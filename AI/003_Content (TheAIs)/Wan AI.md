@@ -1,6 +1,6 @@
 ---
 tags:
-  - AI/Video Generation AIs
+  - AI/VideoGeneration
   - AI
 summary: "Wan AI video generation with 10 daily requests and image to video capabilities"
 ---

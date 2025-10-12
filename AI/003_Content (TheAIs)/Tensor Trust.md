@@ -1,6 +1,6 @@
 ---
 tags:
-  - AI/AI Prompts
+  - AI/AI_Prompts
   - AI
 summary: "Tensor Trust prompting skill game for learning"
 ---

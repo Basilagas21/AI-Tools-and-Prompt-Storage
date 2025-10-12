@@ -1,6 +1,6 @@
 ---
 tags:
-  - AI/Text Generation AIs
+  - AI/TextGeneration
   - AI
 summary: "DeepSeek's advanced AI models including DeepSeek-V3.2-Exp with unlimited access"
 ---

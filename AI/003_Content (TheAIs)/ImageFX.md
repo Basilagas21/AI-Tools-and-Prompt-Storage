@@ -1,6 +1,6 @@
 ---
 tags:
-  - AI/Image Generation AIs
+  - AI/ImageGeneration
   - AI
 summary: "ImageFX Imagen 3 with unlimited usage and region-based access requiring sign-up"
 ---

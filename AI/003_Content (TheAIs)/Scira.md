@@ -1,6 +1,6 @@
 ---
 tags:
-  - AI/Text Generation AIs
+  - AI/TextGeneration
   - AI
 summary: "Scira providing Grok 3 mini and AI search engine with no sign-up required"
 ---

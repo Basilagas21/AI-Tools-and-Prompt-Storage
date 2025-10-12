@@ -1,6 +1,6 @@
 ---
 tags:
-  - AI/AI Prompts
+  - AI/AI_Prompts
   - AI
 summary: "Prompt Engineering Guide comprehensive prompting resources"
 ---

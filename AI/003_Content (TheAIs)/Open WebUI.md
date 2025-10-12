@@ -1,6 +1,6 @@
 ---
 tags:
-  - AI/Self-Hosting Tools
+  - AI/SelfHostingTools
   - AI
 summary: "Open WebUI self-hosted interface for AI models"
 ---

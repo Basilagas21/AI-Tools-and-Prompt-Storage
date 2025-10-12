@@ -1,6 +1,6 @@
 ---
 tags:
-  - AI/Self-Hosting Tools
+  - AI/SelfHostingTools
   - AI
 summary: "Ollama self-hosted AI model runner"
 ---

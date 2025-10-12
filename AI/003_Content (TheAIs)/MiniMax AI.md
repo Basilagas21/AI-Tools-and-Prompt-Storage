@@ -1,6 +1,6 @@
 ---
 tags:
-  - AI/Text Generation AIs
+  - AI/TextGeneration
   - AI
 summary: "MiniMax AI's Minimax-M1 chatbot platform"
 ---

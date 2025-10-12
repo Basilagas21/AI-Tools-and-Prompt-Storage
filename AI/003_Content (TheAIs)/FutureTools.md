@@ -1,6 +1,6 @@
 ---
 tags:
-  - AI/AI Indexes
+  - AI/AI_Indexes
   - AI
 summary: "FutureTools AI directory for discovering AI tools"
 ---

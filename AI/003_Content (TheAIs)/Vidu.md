@@ -1,6 +1,6 @@
 ---
 tags:
-  - AI/Video Generation AIs
+  - AI/VideoGeneration
   - AI
 summary: "Vidu video generation with 10 monthly requests"
 ---

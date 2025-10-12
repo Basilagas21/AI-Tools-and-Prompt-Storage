@@ -1,6 +1,6 @@
 ---
 tags:
-  - AI/Image Generation AIs
+  - AI/ImageGeneration
   - AI
 summary: "Qwen image generation with 30 per 24 hours and editing capabilities requiring sign-up"
 ---

@@ -1,6 +1,6 @@
 ---
 tags:
-  - AI/Video Generation AIs
+  - AI/VideoGeneration
   - AI
 summary: "Bing Create video generation with unlimited usage and Sora 1 model"
 ---

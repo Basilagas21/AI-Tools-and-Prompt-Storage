@@ -1,6 +1,6 @@
 ---
 tags:
-  - AI/Text Generation AIs
+  - AI/TextGeneration
   - AI
 summary: "K2Think's LLM360 MBZUAI Chatbot requiring sign-up"
 ---

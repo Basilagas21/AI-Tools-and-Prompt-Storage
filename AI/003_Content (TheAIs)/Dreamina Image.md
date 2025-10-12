@@ -1,6 +1,6 @@
 ---
 tags:
-  - AI/Image Generation AIs
+  - AI/ImageGeneration
   - AI
 summary: "Dreamina image generation with 60 daily requests and Seedream 3.0 requiring sign-up"
 ---

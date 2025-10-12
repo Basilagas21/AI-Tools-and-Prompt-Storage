@@ -1,6 +1,6 @@
 ---
 tags:
-  - AI/Text Generation AIs
+  - AI/TextGeneration
   - AI
 summary: "Microsoft's AI assistant powered by GPT-5, GPT-4o, and o4-mini with reasoning capabilities"
 ---

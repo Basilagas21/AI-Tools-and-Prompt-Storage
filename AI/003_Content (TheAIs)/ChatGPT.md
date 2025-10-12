@@ -1,6 +1,6 @@
 ---
 tags:
-  - AI/Text Generation AIs
+  - AI/TextGeneration
   - AI
 summary: "OpenAI's ChatGPT with GPT-5 and GPT-5 mini chatbot with limits and reasoning capabilities"
 ---

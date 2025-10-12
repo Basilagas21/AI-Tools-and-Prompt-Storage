@@ -1,6 +1,6 @@
 ---
 tags:
-  - AI/Self-Hosting Tools
+  - AI/SelfHostingTools
   - AI
 summary: "LM Studio self-hosted AI model runner"
 ---

@@ -1,6 +1,6 @@
 ---
 tags:
-  - AI/Text Generation AIs
+  - AI/TextGeneration
   - AI
 summary: "Google's AI Studio featuring Gemini 2.5 Pro and Flash models with Google Chatbots integration"
 ---

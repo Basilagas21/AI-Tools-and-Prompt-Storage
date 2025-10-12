@@ -1,6 +1,6 @@
 ---
 tags:
-  - AI/Text Generation AIs
+  - AI/TextGeneration
   - AI
 summary: "Groq providing Kimi K2-0905, GPT-OSS 120B requiring sign-up"
 ---
