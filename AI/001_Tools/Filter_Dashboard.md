@@ -11,9 +11,8 @@ Advanced filtering and discovery tools for finding the perfect AI tool for your 
 TABLE WITHOUT ID
   file.link as "Tool",
   summary as "Summary",
-  pricing as "Pricing",
-  sign_up_required as "Sign-up Required"
-FROM "AI/003_Content (TheAIs)"
+  pricing as "Pricing"
+FROM #ai-tool
 WHERE pricing = "free"
 SORT file.name ASC
 ```
@@ -23,9 +22,8 @@ SORT file.name ASC
 TABLE WITHOUT ID
   file.link as "Tool",
   summary as "Summary",
-  pricing as "Pricing",
-  sign_up_required as "Sign-up Required"
-FROM "AI/003_Content (TheAIs)"
+  pricing as "Pricing"
+FROM #ai-tool
 WHERE pricing = "freemium"
 SORT file.name ASC
 ```
@@ -35,9 +33,8 @@ SORT file.name ASC
 TABLE WITHOUT ID
   file.link as "Tool",
   summary as "Summary",
-  pricing as "Pricing",
-  sign_up_required as "Sign-up Required"
-FROM "AI/003_Content (TheAIs)"
+  pricing as "Pricing"
+FROM #ai-tool
 WHERE pricing = "paid"
 SORT file.name ASC
 ```

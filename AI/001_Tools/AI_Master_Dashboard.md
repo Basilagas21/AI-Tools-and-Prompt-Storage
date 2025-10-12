@@ -9,11 +9,11 @@ Welcome to the comprehensive AI Tools Master Dashboard! This is your central hub
 TABLE WITHOUT ID
   length(rows) as "Count",
   category as "Category"
-FROM "AI/003_Content (TheAIs)"
+FROM #ai-tool
 FLATTEN tags as tag
 WHERE tag = "AI/TextGeneration" OR tag = "AI/CodingAIs" OR tag = "AI/AI_WritingTools" OR tag = "AI/VideoGeneration" OR tag = "AI/ImageGeneration" OR tag = "AI/AudioGeneration" OR tag = "AI/AI_Benchmarks" OR tag = "AI/AI_Indexes" OR tag = "AI/RoleplayingAIs" OR tag = "AI/SelfHostingTools" OR tag = "AI/AI_Prompts" OR tag = "AI/AI_Agents" OR tag = "AI/Detection" OR tag = "AI/MiscellaneousAI" OR tag = "AI/Productivity"
 GROUP BY tag as category
-SORT Count DESC
+SORT length(rows) DESC
 ```
 
 ### Recently Added/Updated Tools
@@ -22,7 +22,7 @@ TABLE WITHOUT ID
   file.link as "Tool",
   summary as "Summary",
   file.mtime as "Last Modified"
-FROM "AI/003_Content (TheAIs)"
+FROM #ai-tool
 WHERE file.mtime >= date(today) - dur(30 days)
 SORT file.mtime DESC
 LIMIT 10
@@ -33,11 +33,11 @@ LIMIT 10
 TABLE WITHOUT ID
   length(rows) as "Tool Count",
   tag as "Category"
-FROM "AI/003_Content (TheAIs)"
+FROM #ai-tool
 FLATTEN tags as tag
 WHERE tag = "AI/TextGeneration" OR tag = "AI/CodingAIs" OR tag = "AI/AI_WritingTools" OR tag = "AI/VideoGeneration" OR tag = "AI/ImageGeneration" OR tag = "AI/AudioGeneration" OR tag = "AI/AI_Benchmarks" OR tag = "AI/AI_Indexes" OR tag = "AI/RoleplayingAIs" OR tag = "AI/SelfHostingTools" OR tag = "AI/AI_Prompts" OR tag = "AI/AI_Agents" OR tag = "AI/Detection" OR tag = "AI/MiscellaneousAI" OR tag = "AI/Productivity"
 GROUP BY tag
-SORT Tool Count DESC
+SORT length(rows) DESC
 ```
 
 ## 🚀 Quick Navigation
@@ -45,10 +45,8 @@ SORT Tool Count DESC
 ### 📂 All Categories
 ```dataview
 TABLE WITHOUT ID
-  file.link as "Category",
-  length(rows) as "Tools"
+  file.link as "Category"
 FROM "AI/002_AI categories"
-JOIN "AI/003_Content (TheAIs)" ON file.name
 SORT file.name ASC
 ```
 
@@ -58,7 +56,7 @@ TABLE WITHOUT ID
   file.link as "Tool",
   summary as "Summary",
   rating as "Rating"
-FROM "AI/003_Content (TheAIs)"
+FROM #ai-tool
 WHERE rating >= 4.0
 SORT rating DESC
 LIMIT 15
@@ -70,7 +68,7 @@ TABLE WITHOUT ID
   file.link as "Tool",
   summary as "Summary",
   pricing as "Pricing"
-FROM "AI/003_Content (TheAIs)"
+FROM #ai-tool
 WHERE pricing = "free"
 SORT file.name ASC
 ```
@@ -81,7 +79,7 @@ TABLE WITHOUT ID
   file.link as "Tool",
   summary as "Summary",
   sign_up_required as "Sign-up"
-FROM "AI/003_Content (TheAIs)"
+FROM #ai-tool
 WHERE sign_up_required = "no"
 SORT file.name ASC
 ```
@@ -95,7 +93,7 @@ TABLE WITHOUT ID
   summary as "Summary",
   rating as "Rating",
   pricing as "Pricing"
-FROM "AI/003_Content (TheAIs)"
+FROM #ai-tool
 WHERE contains(tags, "AI/TextGeneration")
 SORT rating DESC
 ```
@@ -107,7 +105,7 @@ TABLE WITHOUT ID
   summary as "Summary",
   rating as "Rating",
   pricing as "Pricing"
-FROM "AI/003_Content (TheAIs)"
+FROM #ai-tool
 WHERE contains(tags, "AI/CodingAIs")
 SORT rating DESC
 ```
@@ -119,7 +117,7 @@ TABLE WITHOUT ID
   summary as "Summary",
   rating as "Rating",
   pricing as "Pricing"
-FROM "AI/003_Content (TheAIs)"
+FROM #ai-tool
 WHERE contains(tags, "AI/ImageGeneration")
 SORT rating DESC
 ```
@@ -131,7 +129,7 @@ TABLE WITHOUT ID
   summary as "Summary",
   rating as "Rating",
   pricing as "Pricing"
-FROM "AI/003_Content (TheAIs)"
+FROM #ai-tool
 WHERE contains(tags, "AI/AudioGeneration")
 SORT rating DESC
 ```
@@ -143,7 +141,7 @@ TABLE WITHOUT ID
   summary as "Summary",
   rating as "Rating",
   pricing as "Pricing"
-FROM "AI/003_Content (TheAIs)"
+FROM #ai-tool
 WHERE contains(tags, "AI/VideoGeneration")
 SORT rating DESC
 ```
@@ -156,7 +154,7 @@ TABLE WITHOUT ID
   file.link as "Tool",
   summary as "Summary",
   platforms as "Platforms"
-FROM "AI/003_Content (TheAIs)"
+FROM #ai-tool
 WHERE platforms
 SORT file.name ASC
 ```
@@ -168,7 +166,7 @@ TABLE WITHOUT ID
   summary as "Summary",
   has_api as "API Available",
   api_type as "API Type"
-FROM "AI/003_Content (TheAIs)"
+FROM #ai-tool
 WHERE has_api = "yes"
 SORT file.name ASC
 ```
@@ -179,7 +177,7 @@ TABLE WITHOUT ID
   file.link as "Tool",
   summary as "Summary",
   response_time as "Response Time"
-FROM "AI/003_Content (TheAIs)"
+FROM #ai-tool
 WHERE response_time = "fast"
 SORT file.name ASC
 ```

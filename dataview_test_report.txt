@@ -1,10 +1,10 @@
 Dataview Query Test Report
 ==============================
-Generated: 2025-10-12 15:16:43
+Generated: 2025-10-12 15:40:13
 
 OVERALL SUMMARY
 --------------------
-Files processed: 3
+Files processed: 4
 Files with issues: 0
 Total queries: 60
 Valid queries: 60
